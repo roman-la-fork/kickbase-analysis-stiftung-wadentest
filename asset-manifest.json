@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "./static/js/main.acad2021.js",
+    "main.js": "./static/js/main.bdd6bc97.js",
     "index.html": "./index.html",
-    "main.acad2021.js.map": "./static/js/main.acad2021.js.map"
+    "main.bdd6bc97.js.map": "./static/js/main.bdd6bc97.js.map"
   },
   "entrypoints": [
-    "static/js/main.acad2021.js"
+    "static/js/main.bdd6bc97.js"
   ]
 }
